@@ -11,6 +11,7 @@ export default function Header() {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
+<<<<<<< HEAD
           <a class="nav-link active" aria-current="page" href="#">View Profile</a>
         </li>
         <li class="nav-item">
@@ -34,9 +35,29 @@ export default function Header() {
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
         <button class="btn btn-outline-light" type="submit">Search</button>
+=======
+          <a class="nav-link active" aria-current="page" href="#">Premium Plans</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Renewals</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href='#'>Claims</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <li class="nav-item">
+          <a class="nav-link" href='#'>Logout</a>
+        </li>
+>>>>>>> premium
       </form>
     </div>
   </div>
 </nav>
   )
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> premium
