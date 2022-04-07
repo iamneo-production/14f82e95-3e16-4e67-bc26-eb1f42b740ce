@@ -1,0 +1,19 @@
+.title-user{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+.deleteicon{
+
+    
+    cursor: pointer;
+}
+.deleteicon:hover{
+    color:red;
+}
+.tags{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}

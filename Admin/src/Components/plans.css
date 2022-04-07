@@ -1,0 +1,26 @@
+h1 {
+    text-align:center;
+}
+.button{  
+      
+    display: flex;
+    
+    align-items: center;
+    
+    justify-content: space-around;
+    
+}
+.splbtn{
+    display: flex;
+    flex-direction: row;
+    
+    margin-top: 20%;
+    
+    
+}
+
+.btn{
+    
+    height:70px;
+    width: 160px;
+ }
