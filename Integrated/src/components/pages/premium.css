@@ -1,0 +1,38 @@
+.card {
+    margin: 20px; /* Added */
+    /* Added */
+    float: left;
+    width:33.3%;
+    margin-bottom: 10px;
+    margin-top: 20px; /* Added */
+   
+   
+}
+.card1{
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    float: left;
+    width: 30%;
+    height: 350px;
+    margin-right: 25px;
+    /* image: url('/public/image/comp_image.jpg'); */
+}
+.con{
+    font-size: 30px;
+}
+.payButton{
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    float: right;
+    
+    height: 30px;
+    margin-right: 20px;
+    width: 100px;
+    border-radius: 60px;
+    border: 2px solid #008CBA;
+    cursor: pointer;
+}
+.payButton:hover{
+    color:#99ff66;
+}
