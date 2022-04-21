@@ -1,0 +1,39 @@
+.title-user{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+.deleteicon{
+
+    
+    cursor: pointer;
+}
+.deleteicon:hover{
+    color:red;
+}
+.tags{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.main{
+    background-image: url('/public/image/car32.jpg') ;
+    height: 120vh;
+    object-fit: cover;
+    margin-top: -50px;
+}
+.formContainer{
+    margin-top: 170px;
+}
+.tags{
+    margin-top: 50px;
+}
+.title-user{
+    margin-top: 50px;
+    color:rgb(252, 248, 248);
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    text-transform: uppercase;
+
+}

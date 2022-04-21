@@ -1,0 +1,32 @@
+.plan{
+    background-image: url('/public/image/bgimage.jpg');
+    height: 95vh;
+    object-fit: cover;
+    
+}
+
+.button{  
+      
+    display: flex;
+    
+    align-items: center;
+    
+    justify-content: space-around;
+    
+}
+.splbtn{
+    display: flex;
+    flex-direction: row;
+    
+    margin-top: 20%;
+    
+    
+}
+
+.btn{
+    
+    height:70px;
+    width: 160px;
+    opacity: 1;
+    border: 100px;
+ }
